@@ -251,11 +251,13 @@ When the workflow is running, you can expect:
 <img width="945" height="145" alt="image" src="https://github.com/user-attachments/assets/ba48d48a-c253-4b39-af77-fa0caaaa2bde" />
 
 - A Notion page per feedback/ticket with AI analysis and acceptance criteria
-![image.png](fileId:3325)
+<img width="906" height="725" alt="image" src="https://github.com/user-attachments/assets/815c38c4-03f0-4d26-8f13-6eabb36fa855" />
+
 Every month:
 
 - a Notion “Monthly Product Intelligence Report” page
-![image.png](fileId:3324)
+<img width="945" height="454" alt="image" src="https://github.com/user-attachments/assets/a53a59e6-5380-48c1-aa1c-d18048bcb4bd" />
+
 <img width="945" height="364" alt="image" src="https://github.com/user-attachments/assets/5ce2e811-0242-472a-a9ce-f69ac8b8df4c" />
 
 - a summary email with key metrics and insights for your stakeholders
